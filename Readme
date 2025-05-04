@@ -1,1 +1,16 @@
-Colab
+```README.md
+# Quick Start
+1.	Clone the repository with `git clone`.
+2.	Adjust constants in the source file to suit your computer. They can be differentiated from other variables by the UPPERCASE_SNAKE case.
+3.	In the prediction block (last block), change the value inside the `audio_file` variable to be the file you want to predict the emotion of.
+4.	Run all the cells.
+# Dependencies
+1.	Python
+2.	Librosa
+3.	Tensorflow
+4.	Pandas
+5.	Sklearn
+6.	Matplotlib
+7.	Tqdm
+```
+
